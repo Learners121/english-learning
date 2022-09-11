@@ -27,6 +27,7 @@ He is go+(ing) going.
 * Sub + has/have + verb(3) form Like->
 (has used for 1st person & have used for 2nd person have also used with i or you.)
 
+
 > वो आ गया |
 he has come.
  वे आ गए |
