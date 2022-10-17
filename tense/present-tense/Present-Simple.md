@@ -11,7 +11,7 @@ ___
 | Wo Har subah school jata hai | He goes to school every morning.|
 | Raj Makkhan Khata hain | Raj eats butter|
 | Rahul Sigerete pita hai | Rahul smokes|
-| Usko kele pasand Hain | She likes bananas
+| Use dance pasand Hain | She likes dance
 | Wo Ravivar Ko Film Dekhti Hai | She watch movies on Sundays|
 | Ap kiya karte hai | What do you do|
 | Ap kese hai | How are you|
