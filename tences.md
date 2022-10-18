@@ -1,18 +1,18 @@
-* __Let's Learn English With Tenses__
+* __Let's Learn English Tenses__
 
 <!-- Table-->
 | Present   | Past  | Future    |
 | ---       | ---   | ---       |
 | Simple (Indefinite)| Simple (Indefinite)| Simple (Indefinite)|
-| Continious| Continious| Continious|
+| Continuous| Continuous| Continuous|
 | Perfect   | Perfect| Perfect    |
-| Perfect Continious| Perfect Continious| Perfect Continious|
+| Perfect Continuous| Perfect Continuous| Perfect Continuous|
 ---
-`Prresent Indedinte Rule`
+`Present Indefinite Rule`
 * Sub + verb(1st) form + S (Singular) Like ->
 
 > वह अमेरिका जाता है |
-He go to america.
+He go to the America.<br>
 वह जाता है |
 He Goes.
 ---
@@ -36,7 +36,7 @@ he has come.
  I have come.
  ---
 
- `Present Perfect Continious Rule`
+ `Present Perfect Continuous Rule`
  * Sub + has/have + been + since/for verb(1st) form +ing Like ->
 
 
@@ -50,7 +50,7 @@ I have been waiting for you since morning.
 he came. <-(2nd) form
 ---
 
-`Past continious Rule`
+`Past continuous Rule`
 * Sub + was/were +verb(1st) form +ing
 was is (1st) person & were is (2nd) person were also used with you.
 
@@ -61,14 +61,14 @@ We were going.
 ---
 `Past Perfect Rule`
 * Sub + had + verb(3rd) form
-> हम जा रहे थे |
-he had come.
+> वह आया था |
+He had come.
 ---
 `Past Perfect Continious Rule`
 * Sub + had + been verb(1st) form +ing.
 
 >मैं पूरे दिन काम कर रहा था |
-I had benn working the whole day.
+I had been working the whole day.
 ---
 `Future Indefinite Rule`
 * Sub + Will/shall + verb(1st) form.
@@ -83,8 +83,8 @@ Shall i take this pen.
 `Future Continious Rule`
 * Sub + will be + verb (1st) form +ing.
 
->क्या मै ये पेन ले सकता हु |
-he will be coming.
+>वह जा रहा होगा |
+He will be coming.
 ---
 
 `Future Perfect Rule`
@@ -101,5 +101,5 @@ The bus will have left.
 By the end of this month we will have beem 10 years to living here.
 ---
 
-                                    THE END
+                         THE END
  
