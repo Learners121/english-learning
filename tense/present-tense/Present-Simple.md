@@ -34,7 +34,7 @@ ___
 | Mai usse nhi janta | I Don't know him|
 | Tum mujhe Aajkal fhone nhi karte | You do not call me nowadays|
 ___
-### _Introgetive_ ->
+### _Interrogetive_ ->
 #### Definition -> `We use the present simple, in its interrogative form, to ask about situations that regularly, repeatedly or always occur`.
 * __Formula__  ->`Subject + Do/Does + Not + Verb(1st) Form + Object`.
 ### _Examples_ ->
@@ -45,6 +45,11 @@ ___
 | Kiya wo Aajkal tumhe call nhi karti hai | Does he not call you nowadays|
 |Kiya ap thoda lena chate hai| Do you want to take a little bit|
 | Kiya ap coffee piyenge |Do you drink coffee|
+|kiya ap waha jayenge|Do you go there|
+|kiya wo ayega|Does he come|
+|kiya tumhe ye pasand hai |Do you like this|
+|kiya kuch gadbad hai|Is something wrong|
+|kiya tum ye nhi chati|Do you don't want this|
 ___
 ### _WH Family_ ->
 
@@ -59,5 +64,10 @@ ___
 | Wo konsi kitab padhta hain | Which book does he read |
 | Ve yaha bar-bar q aate hai | Why do they come here again and again|
 | Tum is kamre main q nhi sote ho | Why Does you not sleep in this room|
+|Ap kiya lena pasand karenge|What would you like to take
+|wo kaha jata hain|Where Does he go|
+|mera bag kaha hain|Where is my bag|
+|Tum konsa chunna chate ho|Which one do you choose|
+|Tum waha kese jate ho|How you go there|
 ___
 ## THE END.
