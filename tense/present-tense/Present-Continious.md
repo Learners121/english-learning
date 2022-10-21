@@ -1,34 +1,58 @@
-##PRESENT CONTINIUS TENSE
-___
-### *Explanation*
+## PRESENT CONTINIUS TENSE
 
-> **DEFINATION** ->The present continuous verb tense indicates that an action or condition is happening now, frequently, and may continue into the future.
+###  *Explanation*
+
+>  **DEFINATION** ->The present continuous verb tense indicates that an action or condition is happening now, frequently, and may continue into the future.
  ---
- >**FORMULA** -> [ (SUB) + (IS,AM,ARE) + (VERB 1ST  FORM) + ing + obj]
+> **FORMULA SIMPLE** -> [ (SUB) + (IS,AM,ARE) + (VERB 1ST  FORM) + ing + obj]
  
-###Example
-   | HINDI  | ENGLISH  |
-   | ---       | ---   |
-   |Hum ja rahe hai|We are going
-   |Tum ja rahe ho|You are going|
-   |Rahim khana kha raha hai| Rahim is eating food|
-   |Ladki khel rahi hai | Girl are playing|
-   |Wo so rhe hai |They are sleeping|
-   |Tum nach rahe ho |You are dancing|
-   |Me khana bna raha hu |I am cocking food|
-   |Tum ek latter likh rahe ho|You are writing a latter|
-   |Fatima quran pad rahi hai|Fatima is reading a quran|
-   |Wah shanan kar raha hai| He is bathing|
+### Example
+   |ENGLISH  | Hindi |
+   |---   |----|
+   |We are going|हम जा रहे हैं|
+   |You are going|तुम जा रहे हो|
+   |Rahim is eating food|रहीम खाना खा रहा है|
+   |Girl are playing|लड़की खेल रही है|
+   |They are sleeping|वे सो रहे हैं|
+   |You are dancing|तुम नाच रही हो|
+   |I am cocking food|मैं खाना बना रहा हूँ|
+   |You are writing a latter|आप बाद में लिख रहे हैं
+   |Fatima is reading a quran|फातिमा कुरान पढ़ रही है|
+   |He is bathing|वह नहा रहा है|
+
    ---
-###Present continious nagative santance
-| Hindi | English |
-|-------| --------|
-|Me pad nhi raha hu | I am not reading|
-| Tum ja nhi rhe ho | you are not going |
-|Rahim khana nhi kha rha hai |Rahim is not eating food|
-|wo so nhi rha hai| He is not sleeping|
-|Tum nach nhi rahe ho |You are not dancing|
-|Me khana nhi bna rha ho |I am not cooking food|
-|Tum ek latter nhi likh rhe ho | You are not writing a letter|
-| Fatima gana nhi ga rhi hai | Fatima is not sing a song
-test
+
+### Present continious nagative santance
+
+> **NAGATIVE FORMULA** -> [AM , IS , ARE] + NOT + sub + verb 2 form + OTHER WORDS
+
+| English | Hindi |
+|-------| --------|---|
+|I am not reading|मैं नहीं पढ़ रहा हूँ||
+|you are not going |तुम नहीं जा रहे हो |
+|Rahim is not eating food|रहीम खाना नहीं खा रहा है|
+|He is not sleeping|वह सो नहीं रहा है|
+|You are not dancing|तुम नाच नहीं रहे हो|
+|I am not cooking food|मैं खाना नहीं बना रही हूँ|
+|You are not writing a letter|आप पत्र नहीं लिख रहे हैं|
+|Fatima is not sing a song|फातिमा गाना नहीं गा रही है|
+|Danish is not teaching codding to students|दानिश छात्रों को कोडिंग नहीं सिखा रहा है|
+|fayyaz is not taking bath|फैयाज नहा नहीं रहा है| 
+---
+### Present continious introgative santance
+
+> **introgative formula** -> [ am , are , is ]+ [i , you , he , she ]+ subject + [verb + ing] + ?
+
+| English | Hindi |
+| --- | ---|
+|Am i going to jaipur ? |  क्या मैं जयपुर जा रहा हूँ ? |
+|Are you reading a book ? | क्या आप किताब पढ़ रहे हैं ? |
+|Is she going ? | क्या वह जा रही है? |
+|Is he buying a book ? | क्या वह एक किताब खरीद रहा है? |
+|Is they are going with car ? | क्या वे कार से जा रहे हैं ? |
+|Are they were doing? | क्या वे कर रहे थे? |
+|is he going to your home ? |  क्या वह आपके घर जा रहा है ?|
+|am i doing your work ? | क्या मैं तुम्हारा काम कर rha हूँ? |
+|is she going to work for u ? | क्या वह तुम्हारे लिए काम करने जा रही है ?|
+|are u going to open gate ? | क्या तुम गेट खोलने जा रहे हो ?| 
+---
