@@ -1,7 +1,7 @@
-# Present Perfect Continuous tense:- 
+#### * Present Perfect Continuous tense:- 
 
-## Defination- 
-> **The present perfect continuous tense (also known as the present perfect progressive tense) shows that something started in the past and is continuing at the present time. The present perfect continuous is formed using the construction has/have been + the present participle (root + -ing)..**
+#### Defination -> 
+`The present perfect continuous tense (also known as the present perfect progressive tense) shows that something started in the past and is continuing at the present time. The present perfect continuous is formed using the construction has/have been + the present participle (root + -ing)`
 
 # Positive Structure: 
 #### ```Subject + has/have been + the present participle (root + -ing).```
@@ -88,5 +88,5 @@
 ---
 #### Explanation : 
 In the above sentences, the actions are taking place at the moment. It means that the present continuous tense shows an ongoing action in the present.
-
->##### [For More About click on this link](https://www.toppr.com/guides/english/tenses/present-perfect-continuous-tense/)
+___
+## THE END.
