@@ -56,7 +56,7 @@ did (not) + [subject] + verb (2nd) form + object.
 
 |Hindi        |English     |
 |:-:          |:-:         |
-|क्या वह स्कूल गया था?| Did he go to school.|
+|किया वो स्कूल नहीं गया| Did he go to school.|
 |क्या वे आपसे मिले?| Did they meet you.|
 |क्या आपने उन्हें फोन किया?|Did you call them.|
 |क्या वे मजाक पर हंसे थे?|Did they laugh at joke.|
@@ -88,5 +88,24 @@ did (not) + [subject] + verb (2nd) form + object.
  |तुम यहां क्या कर रहे हो|What are you doing here.|
  |तुम कब जागे|When did you wake up.|
  |तुम उदास क्यों हो|Why are you sad.|
+---
+<u> __WH Words. Interrogative. Negative.__</u>
+* #### _<u>Formula</u>_.
+```bash
+   Wh Words + Did + Subject + not + (verb)1st Form + Object.
+   ```
+   ---
+   |Hindi    | English    |
+   |:-:      |:-:         |
+   |तुम वहा क्यू नही गए. | Why did you not go there.|
+   |तुम कल क्यू नही आये. | Why did you not come yesterday.|
+   |रमेश कल यहाँ क्यू नही आया. | Why ramesh did not come here yesterday.|
+   |किया कल छुट्टी नहीं थि. | Was not a holiday yesterday.|
+   |तुमने ये काम क्यू नही किया. | Why did you not do these deed.|
+   |किया वो स्कूल नहीं गया. | Did he not go to school.|
+   |किया तुमने उसे नहीं देखा. | Did you not see her.|
+   |मैं दुकान पर नहीं गया.| I did not go to the store.|
+   |किया उसे पैसे नहीं चाइये थे. | Did he not want the money.|
+   |किया तुम्हे उससे प्यार नहीं हुआ था.| Did you not fall in love with him.|
 
- ### THE END.
+ ### <u>THE END.</u>
