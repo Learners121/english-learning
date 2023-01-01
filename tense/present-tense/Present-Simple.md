@@ -1,73 +1,98 @@
-#### * __Let's learn Present Simple Tense__
+* ####  __Let's learn Present Simple Tense__
  
  #### Defination -> `a verb tense that expresses action or state in the present time and is used of what is true at the time of speaking or is always true.`
  ___
 * __Formula__ -> `(Subject + V1 Form + Object & s/es with Singular)`.
 ___
-### _Examples_ ->
+### <U>_Examples_ -></U>
+
 | Hindi | English |
 | ---   | ---     |    
-| Wo Jata Hain | He goes | 
-| Wo Har subah school jata hai | He goes to school every morning.|
-| Raj Makkhan Khata hain | Raj eats butter|
-| Rahul Sigerete pita hai | Rahul smokes|
-| Use dance pasand Hain | She likes dance
-| Wo Ravivar Ko Film Dekhti Hai | She watch movies on Sundays|
-| Ap kiya karte hai | What do you do|
-| Ap kese hai | How are you|
-| Ve jate hai | They go|
-| Is Samay Mere Pass Pese Nhi Hain| I have no Money at the time|
+| वो जाता है. | He goes | 
+| वो हर सुबह स्कूल जाता है.| He goes to school every morning.|
+| राज मक्खन खाता है.| Raj eats butter|
+| राहुल सिगरेट पिता हैं. | Rahul smokes|
+| उसे डांस पसंद है.| She likes dance
+| वो रविवर को फिल्म देखती है. | She watch movies on Sundays|
+|आप किया करते हो. | What do you do|
+|आप केसे हैं. | How are you|
+| हम जाते हैं.| we go|
+| यह समय मेरे पास पेसे नहीं है.| I have no Money at the time|
 ___
 ### _Negetive_ ->
 #### Definition -> `A negative sentence states that information is not true and is usually created by adding 'not'.`
-### _Examples_ ->
+
+---
+###  <u>_Examples_ -></u>
 | Hindi| English |
 | ---   | ---     |
-| Wo ab mujhe nhi padhata hai | Now he Doe's not teach me|
-| Wo Aajkal yaha nhi ata | He Doe's Not come here Nowadays|
-| Wo Mujhe pasand nhi karti | She Doe's not like me
-| Mujhe ye acha nhi lagta | I Don't like this|
-| Ap waha nhi gaye | You not go there|
-| Ap yaha nhi rehte | You not live here|
-| Mujhe uska chehra nhi pasand | I Don't like there face|
-| Mai ye nhi khata | I Don't eat this|
-| Mai usse nhi janta | I Don't know him|
-| Tum mujhe Aajkal fhone nhi karte | You do not call me nowadays|
+| वो अब मुझे नहीं पढ़ाता है. | Now he Doe's not teach me|
+|वो आज कल यहां नहीं आता.| He Doe's Not come here Nowadays|
+वो मुझे पसंद नहीं करती. | She Doe's not like me
+| मुझे ये अच्छा नहीं लगता. | I Don't like this|
+| तुम वहाँ नहीं गए.| You did not go there|
+| आप यहा नहीं रहते. | You not live here|
+| मुझे उसका चेहरा नहीं पसंद,| I Don't like there face|
+|मैं ये नहीं खाता. | I Don't eat this|
+| मैं तुम्हें नहीं जानता.| I Don't know you|
+| 
+तुम मुझे आज कल फोन नहीं करते. | You do not call me nowadays|
 ___
 ### _Interrogetive_ ->
 #### Definition -> `We use the present simple, in its interrogative form, to ask about situations that regularly, repeatedly or always occur`.
 * __Formula__  ->`Subject + Do/Does + Not + Verb(1st) Form + Object`.
-### _Examples_ ->
+---
+### <u>_Examples_ -></u>
 | Hindi | English |
 | ---   | ---     |
-| Kiya wo yaha nhi rehta hai | Does he not live here|
-| Kiya tum use jante ho | Do you know him|
-| Kiya wo Aajkal tumhe call nhi karti hai | Does he not call you nowadays|
-|Kiya ap thoda lena chate hai| Do you want to take a little bit|
-| Kiya ap coffee piyenge |Do you drink coffee|
-|kiya ap waha jayenge|Do you go there|
-|kiya wo ayega|Does he come|
-|kiya tumhe ye pasand hai |Do you like this|
-|kiya kuch gadbad hai|Is something wrong|
-|kiya tum ye nhi chati|Do you don't want this|
+किया वो यहां नहीं रहता है. | Does he not live here|
+|किया तुम हमें जानते हो | Do you know |
+किया वो आज कल तुम्हें फोन नहीं करती है. | Does he not call you nowadays|
+|किया आप थोड़ा लेना चाहते हैं.| Do you want to take a little bit|
+|किया आप कॉफी पियेंगे. |Do you drink coffee|
+|किया आप वहा जाएंगे.|Do you go there|
+|किया वो आएगा.|Does he come|
+|किया तुम्हें ये पसंद है. |Do you like this|
+|किया कुछ गड़बड़ है.|Is something wrong|
+किया तुम ये नहीं चाहते.|Do you don't want this|
 ___
 ### _WH Family_ ->
 
 #### Definition -> `"wh- word" is one of the function words used to begin a wh- question: what, who, whom, whose, which, when, where, why, and how`.
 
-### _Examples_ ->
+---
+### <u>_Examples_ -></u>
 
 | Hindi | English |
 | ---   | ---     |
-| wo kaha rehta hai | Where Does he live |
-| Tum kiya karte ho | What do you do |
-| Wo konsi kitab padhta hain | Which book does he read |
-| Ve yaha bar-bar q aate hai | Why do they come here again and again|
-| Tum is kamre main q nhi sote ho | Why Does you not sleep in this room|
-|Ap kiya lena pasand karenge|What would you like to take
-|wo kaha jata hain|Where Does he go|
-|mera bag kaha hain|Where is my bag|
-|Tum konsa chunna chate ho|Which one do you choose|
-|Tum waha kese jate ho|How you go there|
+वो कहा रहता है. | Where Does he live |
+| तुम किया करते हो. | What do you do |
+| वो कौन सी किताब पढ़ता है. | Which book does he read |
+| वे यह बार-बार क्यू आते हैं.| Why do they come here again and again|
+तुम कमरे में क्यों नहीं सोते हो. | Why you does not sleep in this room|
+|आप किया लेना पसंद करेंगे.|What would you like to take
+|
+वो कहा जाता है.|Where Does he go|
+|मेरा बैग कहा है.|Where is my bag|
+|तुम कोनसा चुन्ना चाहते हो.|Which one do you want to choose|
+|तुम वहा केसे जाते हो.|How you go there|
 ___
-## THE END.
+
+### _Negative , Interrogative , Simple , Wh Words_ ->
+
+---
+### <u>_Examples_ -></u>
+| Hindi     | English   |
+| ---       | ---       |
+|राज मक्खन खाता है.| Raj eats butter|
+|आप किया करते हो. | What do you do|
+|किया वो आज कल तुम्हें फोन नहीं करती है. | Does he not call you nowadays|
+|वो कहा रहता है.| Where does he live|
+|वो मुझे पसंद नहीं करती. | She does not like me|
+|मुझे ये अच्छा नहीं लगता.| I dont like this.|
+|वो कौन सी किताब पढ़ता है.| Which book does he read|
+|क्या तुम वहाँ जाओगे. | Will you go there.|
+|तुम वहाँ नहीं गए. | You did not go there.|
+|उसे डांस पसंद है. | She likes dance.|
+---
+## The End.
