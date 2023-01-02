@@ -28,7 +28,7 @@ did + [subject] + verb (2nd) form + object.
 <u> __Negative.__</u>
 * #### _<u>Formula</u>_.
 ```bash
-did (not) + [subject] + verb (2nd) form + object.
+[subject] did + (not) + verb (2nd) form + object.
 ```
 ---
 
@@ -65,7 +65,7 @@ did (not) + [subject] + verb (2nd) form + object.
 |क्या तुमने चाय पी?|Did you drink tea.|
 |क्या तुम वहाँ गये थे?|Did you go there.|
 |क्या आपने इसे खरीदा?|Did you buy this.|
-|क्या तुमने उन्हें देखा?|Did you see them.|
+|क्या तुमने उन्हें देखा?|Did you saw them.|
 ---
 
 <u> __WH Words.__</u>
@@ -89,6 +89,7 @@ did (not) + [subject] + verb (2nd) form + object.
  |तुम कब जागे|When did you wake up.|
  |तुम उदास क्यों हो|Why are you sad.|
 ---
+
 <u> __WH Words. Interrogative. Negative.__</u>
 * #### _<u>Formula</u>_.
 ```bash
@@ -108,4 +109,21 @@ did (not) + [subject] + verb (2nd) form + object.
    |किया उसे पैसे नहीं चाइये थे. | Did he not want the money.|
    |किया तुम्हे उससे प्यार नहीं हुआ था.| Did you not fall in love with him.|
 
- ### <u>THE END.</u>
+<u> __Negative, Interrogative, Wh Words, Simple.__</u>
+
+ * __Example__. -->
+
+|   Hinid   | English   |
+|---        | ---       |
+|क्या तुम वहाँ गये थे? | Did you go there.|
+|मैं दुकान पर नहीं गया. | I did not go to the store.|
+|पिछले साल मैं फ्रांस गया था. | Last year i was went to the frence.|
+|उसने कितनी बार सिगरेट पी?.| How many times did he smoke cigeretes.|
+|क्या वे आपसे मिले? | Did he met you.|
+|क्या तुमने उन्हें देखा? | Did you saw them.|
+|आपने ऐसा क्यों किया. | Why did you do that.|
+|मैंने यह खूबसूरत पैन खरीदा. | I bought this beautiful pan.|
+|मेरी माँ ने कल एक फिल्म देखी. | My mother saw a movie yesterday.|
+|उसे पैसे नहीं चाहिए थे. | She did not want money.|
+---
+## The End.
