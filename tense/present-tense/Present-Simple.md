@@ -28,15 +28,14 @@ ___
 | ---   | ---     |
 | वो अब मुझे नहीं पढ़ाता है. | Now he Doe's not teach me|
 |वो आज कल यहां नहीं आता.| He Doe's Not come here Nowadays|
-वो मुझे पसंद नहीं करती. | She Doe's not like me
+|वो मुझे पसंद नहीं करती. | She Doe's not like me
 | मुझे ये अच्छा नहीं लगता. | I Don't like this|
 | तुम वहाँ नहीं गए.| You did not go there|
 | आप यहा नहीं रहते. | You not live here|
 | मुझे उसका चेहरा नहीं पसंद,| I Don't like there face|
 |मैं ये नहीं खाता. | I Don't eat this|
 | मैं तुम्हें नहीं जानता.| I Don't know you|
-| 
-तुम मुझे आज कल फोन नहीं करते. | You do not call me nowadays|
+|तुम मुझे आज कल फोन नहीं करते. | You do not call me nowadays|
 ___
 ### _Interrogetive_ ->
 #### Definition -> `We use the present simple, in its interrogative form, to ask about situations that regularly, repeatedly or always occur`.
@@ -65,14 +64,13 @@ ___
 
 | Hindi | English |
 | ---   | ---     |
-वो कहा रहता है. | Where Does he live |
+|वो कहा रहता है. | Where Does he live |
 | तुम किया करते हो. | What do you do |
 | वो कौन सी किताब पढ़ता है. | Which book does he read |
 | वे यह बार-बार क्यू आते हैं.| Why do they come here again and again|
-तुम कमरे में क्यों नहीं सोते हो. | Why you does not sleep in this room|
-|आप किया लेना पसंद करेंगे.|What would you like to take
-|
-वो कहा जाता है.|Where Does he go|
+|तुम कमरे में क्यों नहीं सोते हो. | Why you does not sleep in this room|
+|आप किया लेना पसंद करेंगे.|What would you like to take|
+|वो कहा जाता है.|Where Does he go|
 |मेरा बैग कहा है.|Where is my bag|
 |तुम कोनसा चुन्ना चाहते हो.|Which one do you want to choose|
 |तुम वहा केसे जाते हो.|How you go there|
