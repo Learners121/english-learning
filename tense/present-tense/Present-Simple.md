@@ -44,16 +44,16 @@ ___
 ### <u>_Examples_ -></u>
 | Hindi | English |
 | ---   | ---     |
-किया वो यहां नहीं रहता है. | Does he not live here|
+|किया वो यहां नहीं रहता है. | Does he not live here|
 |किया तुम हमें जानते हो | Do you know |
-किया वो आज कल तुम्हें फोन नहीं करती है. | Does he not call you nowadays|
+|किया वो आज कल तुम्हें फोन नहीं करती है. | Does he not call you nowadays|
 |किया आप थोड़ा लेना चाहते हैं.| Do you want to take a little bit|
 |किया आप कॉफी पियेंगे. |Do you drink coffee|
 |किया आप वहा जाएंगे.|Do you go there|
 |किया वो आएगा.|Does he come|
 |किया तुम्हें ये पसंद है. |Do you like this|
 |किया कुछ गड़बड़ है.|Is something wrong|
-किया तुम ये नहीं चाहते.|Do you don't want this|
+|किया तुम ये नहीं चाहते.|Do you don't want this|
 ___
 ### _WH Family_ ->
 
