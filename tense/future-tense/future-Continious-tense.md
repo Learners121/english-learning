@@ -1,4 +1,4 @@
-# _Continious Tense_
+# _Future Continious Tense_
 ---
 > **Defination** -> he future continuous tense, also known as the future progressive tense, is a verb tense that shows an ongoing action in the future. It is the future version of the present continuous tense, which uses a similar construction. 
 ---
@@ -36,7 +36,7 @@
 |मैं कल नहीं लिख रहा हूँ।|I will be not writing tomorrow.|
 |मैं प्रतियोगिता में नहीं वाद-विवाद करूंगा।| I will be not debating in the competition.|
 ---
-## **Introgative-tense**
+## **Interrogative-tense**
 ```base
 Will + subject + be + (1st form of verb + ing) + object. 
  ```
@@ -53,4 +53,37 @@ Will + subject + be + (1st form of verb + ing) + object.
 |हम फ़याज़ के घर कब जा रहे हैं?|when we going to fayyaz's home? |
 |तुम आज रात क्या खरीदोगे?|what will u buyying tonight?|
 ---
-# THE END 
+## **Wh Sentences.**
+```bash
+Wh Word + Will + subject + be + (1st form of verb + ing) + object.
+```
+ Hindi | English |
+|---|----|
+ वह क्या कर रहा होगा ?|What will he be doing ?
+ तुम सोमवार को कहाँ जा रहे होगे ?|Where will you be going on Monday ?
+ वह इस बारे में क्या कर रहा होगा ?| What will he be doing about it ?when
+  ये बच्चे कहाँ जा रहे होंगे |where will these children be going 
+   तुम फूल कब तोड़ रहे होगे|when will you be plucking the flower
+   रेखा घास कैसे काट रही होगी|how will rekha be cutting the grass
+   चोर कहां चोरी कर रहा होगा|where will ther thief be stealing
+   मैं पवन को लेकर कहाँ जाऊँगा|where shall i be going with pawan 
+   आपको कौन कॉल करेगा|who will be calling you 
+   |तुम जनवरी में क्या करोगे|what will you doing in january 
+   ---
+## **Negative Interrogative Simple Wh Sentences**
+| Hindi | English |
+|---|----|
+|मैं कल जा रहा हूँ|i wil be going tommorow |
+|वह स्कूल जा रहा होगा| he will be going school|
+|वह कल याद कर रही होगी| she will be remembering tommorow|
+|मैं कल नहीं जा रहा हूँ|i wil be not going tommorow |
+|वह स्कूल नहीं जा रहा होगा|he will be not going school|
+|वह कल नहीं याद कर रही होगी|she will be not remembering tommorow|
+|क्या आप अपना छात्र कार्ड लाएंगे?|Will you bring your student  card?|
+|क्या वह अपनी पोशाक पहनेगी?|Will she wear her dress?|
+|क्या आप आज रात काम करेंगे?|Will you work tonight?|
+ वह क्या कर रहा होगा ?|What will he be doing ?
+ तुम सोमवार को कहाँ जा रहे होगे ?|Where will you be going on Monday ?
+ वह इस बारे में क्या कर रहा होगा ?| What will he be doing about it when
+ ---
+## THE END 
