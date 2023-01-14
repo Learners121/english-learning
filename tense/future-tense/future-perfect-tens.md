@@ -1,11 +1,11 @@
 # _Future perfect Tense_
 ---
 **Defination**
-The future perfect is a verb tense used for actions that will be completed before some other point in the future.
+* The future perfect is a verb tense used for actions that will be completed before some other point in the future.
 
  ### formula
 
-   >  Formula :-  Subject + will/shall + have + verb(3rd form) + object 
+   > Formula :-  Subject + will/shall + have + verb(3rd form) + object 
   ---
   ## **Simple-tense**
   | Hindi | English|
@@ -37,8 +37,8 @@ The future perfect is a verb tense used for actions that will be completed befor
 राहुल दस बजे तक कॉलेज नहीं पहुँच चुकेगा|Rahul will not have reached the college by 10 o'clock.
 तुम्हारे आने से पहले मैं अपना पाठ याद नहीं कर चुकूँगा |  I will not have learnt my lesson before you come.
 ----
-## **Introgative-tense**
->Formula :- Will/Shall + subject + have + verb(3rd form) + object + .......?
+## **Interrogative-tense**
+>Formula :- Will/Shall + subject + have + verb(3rd form) + object.
 
  | Hindi | English|
 |---      |---         |
@@ -54,18 +54,22 @@ The future perfect is a verb tense used for actions that will be completed befor
 क्या मास्टरजी के आने से पहले हम क्रिकेट खेल चुकेंगे ?| Shall we have played the cricket before the teacher comes ?
 ----
  ## **Wh-Words**
+```bash
+Formula :- Wh Word + Will/Shall + subject + have + verb(3rd form) + object.
+```
+
  | Hindi | English|
 |---      |---         |
- क्या सात बजने से पहले लड़के मैच खेल चुके होंगे ?|Will the boys have played the match before it is seven?
- क्या गाड़ी के आने से पहले हम टिकट नहीं ले चुके होंगे?|Shall we not have taken the tickets before the train arrives?
- सूरज छिपने से पहले कितने लड़के यहाँ आ चुके होंगे?|How many boys will have come here before the sun sets?
+ |किस जगह सात बजने से पहले लड़के मैच खेल चुके होंगे ?|where the boys have played the match before 7th O'Clock?
+ आप कह से हो|Where are you from|
+ सूरज छिपने से पहले कितने लड़के यहाँ आ चुके होंगे?|where many boys will have come here before the sun sets?
  टीचर के आने से पहले कौन तुम्हारे पुत्र को दंड दे चुका होगा?|Who will have punished your son before the teacher comes?
  वर्षा होने से पहले वह कहाँ जा चुका होगा?|Where will he have gone before it rains?
  कल मैं क्या कर चुका हूँगा? |What shall I have done tomorrow?
  कल हम क्या गा चुके होंगे?|What shall we have sung tomorrow?
  तुम कल कहाँ पर गीत गा चुके होंगे? |Where will you have sung a song tomorrow?
  वह कब एक गीत गा चुका होगा?|When will he have sung a song?
- वह कैसे एक गीत गा चुकी होगी?|How will she have sung a song?
+ आप किया करते हो|What do you do?|
  ---
 ## **Negative Interrogative Simple Wh Sentences.**
 | Hindi | English|
@@ -81,3 +85,4 @@ The future perfect is a verb tense used for actions that will be completed befor
    9-  मेरे कुछ कहने से पहले वह नाराज़ क्यों हो चुकेगी ?| Why will she have become angry before I say something ?
  10-  हम दस बजे तक दिल्ली कैसे पहुँच चुकेंगे ?|How shall we have reached Delhi by 10 o'clock ?
 ---
+## The End.
