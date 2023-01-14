@@ -1,7 +1,7 @@
 # PAST - Continious - TENSE
 
 ---
-# Simple Sentense
+# Simple Sentenses
 
 > ___Structure___ - [ subject + was/were + verb's 2nd form
 
