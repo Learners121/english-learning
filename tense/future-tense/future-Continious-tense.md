@@ -36,7 +36,7 @@
 |मैं कल नहीं लिख रहा हूँ।|I will be not writing tomorrow.|
 |मैं प्रतियोगिता में नहीं वाद-विवाद करूंगा।| I will be not debating in the competition.|
 ---
-## **Introgative-tense**
+## **Intrrogative-tense**
 ```base
 Will + subject + be + (1st form of verb + ing) + object. 
  ```
