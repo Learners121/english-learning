@@ -7,7 +7,7 @@
 
 ## Examples
 | HINDI |ENGLISH|
-| -------| -------|---|
+| -------| -------|
 | कल बर्फ़ पड़ रही थी| It was snowing yesterday.|
 | वे रेस्टोरेंट में खाना खा रहे थे | They were eating at the restaurant |
 |आप कल काम कर रहे थे | You were working yesterday. |
