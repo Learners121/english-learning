@@ -13,10 +13,10 @@
 
 * _`Continious`_ -> <u>[For More Click Over This.](./past-tense/Past-Continious-tense.md)</u>
 ---
-* _`Perfect`_ -> <u>[For More Click Over This.]()</u>
+<!-- * _`Perfect`_ -> <u>[For More Click Over This.]()</u>
 
 * _`Perfect Continious`_ -> <u>[For More Click Over This.]()</u>
----
+--- -->
 
 ### Future Tense.
 <!-- * _`Simple`_ -> <u>[For More Click Over This.]()</u>
