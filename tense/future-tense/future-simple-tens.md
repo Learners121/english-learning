@@ -19,7 +19,7 @@ _____
    तुम मुझे ज़िन्दगी भर याद करोगे | You will remember me whole life.
    वह हवाई जहाज से अमेरिका जायेगी |She will go to America by aeroplane.
 ___
-## **Nagative-tense**
+## **Negative-tense**
 >Subject + will /shall + not + verb(1st form) + object
 
 | Hindi | English|
@@ -35,7 +35,7 @@ ___
 वे ताजमहल देखने नहीं जायेंगे |They will not go to see the Taj Mahal.
 हम आज रात कोई फ़िल्म नहीं देखेंगे |We shall watch no film tonight.
 -----
-## **Introgative-tense**
+## **Intrrogative-tense**
 >Will/shall + subject + verb(1st form) + object
 
 | Hindi | English|
